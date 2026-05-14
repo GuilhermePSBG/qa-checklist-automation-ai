@@ -1,15 +1,15 @@
-# 🤖 Automação de Checklist com IA (QA Project)
+#  Automação de Checklist com IA (QA Project)
 
 Projeto de automação desenvolvido com foco em Quality Assurance, utilizando Selenium + Inteligência Artificial para criação automática de checklists em sistema web.
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 - Python
 - Selenium
 - Pandas
 - Google Gemini (IA)
 - PyAutoGUI
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 - Leitura de arquivos Excel com itens de checklist  
 - Classificação automática de itens usando IA  
@@ -17,7 +17,7 @@ Projeto de automação desenvolvido com foco em Quality Assurance, utilizando Se
 - Organização dos itens por categoria  
 - Simulação de fluxo real de usuário (E2E)  
 
-## 🧠 Conceitos de QA aplicados
+##  Conceitos de QA aplicados
 
 - Automação de processos  
 - Testes End-to-End (E2E)  
@@ -25,11 +25,11 @@ Projeto de automação desenvolvido com foco em Quality Assurance, utilizando Se
 - Regras de negócio  
 - Redução de tarefas manuais  
 
-## 🔒 Segurança
+##  Segurança
 
 Dados sensíveis (como API Key, email e senha) são armazenados em variáveis de ambiente (.env) e não são versionados.
 
-## ⚙️ Como executar
+##  Como executar
 
 1. Clone o repositório  
 2. Instale as dependências:
@@ -44,6 +44,6 @@ SENHA=your_password
 
 4. Execute o script:
 
-## 🎯 Objetivo
+##  Objetivo
 
 Demonstrar habilidades em automação de testes e uso de IA para otimizar processos de QA.
